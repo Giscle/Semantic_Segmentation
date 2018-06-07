@@ -1,6 +1,6 @@
 {
     "labels": {
-        "vehicles": {
+        "moving": {
             "categorie": "vehicle",
             "color": [
                 255,
@@ -9,7 +9,7 @@
             ],
             "id": 33,
             "id_categorie": 7,
-            "name": "vehicles"
+            "name": "Moving"
         },
         "my vehicle": {
             "categorie": "void",
@@ -20,7 +20,7 @@
             ],
             "id": 1,
             "id_categorie": 0,
-            "name": "my vehicle"
+            "name": "My Vehicle"
         },
         "person": {
             "categorie": "human",
@@ -31,7 +31,7 @@
             ],
             "id": 24,
             "id_categorie": 6,
-            "name": "person"
+            "name": "people/animal"
         },
         "road": {
             "categorie": "flat",
@@ -42,7 +42,7 @@
             ],
             "id": 7,
             "id_categorie": 1,
-            "name": "road"
+            "name": "Road"
         },
         "road marking": {
             "categorie": "flat",
@@ -53,7 +53,7 @@
             ],
             "id": 34,
             "id_categorie": 2,
-            "name": "road marking"
+            "name": "Road Marking"
         },
         "sky": {
             "categorie": "sky",
@@ -64,7 +64,7 @@
             ],
             "id": 23,
             "id_categorie": 5,
-            "name": "sky"
+            "name": "Sky"
         },
         "undrivable": {
             "categorie": "nature",
@@ -75,7 +75,7 @@
             ],
             "id": 22,
             "id_categorie": 4,
-            "name": "terrain"
+            "name": "Undrivable"
         },
         "traffic light/traffic sign": {
             "categorie": "object",
@@ -86,7 +86,7 @@
             ],
             "id": 19,
             "id_categorie": 3,
-            "name": "traffic light/traffic sign"
+            "name": "Traffic light/Traffic sign"
         }
     }
 }
