@@ -14,9 +14,9 @@
         "my vehicle": {
             "categorie": "void",
             "color": [
-                50,
-                50,
-                50
+                100,
+                100,
+                100
             ],
             "id": 1,
             "id_categorie": 0,
