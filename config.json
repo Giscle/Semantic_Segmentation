@@ -1,0 +1,92 @@
+{
+    "labels": {
+        "vehicles": {
+            "categorie": "vehicle",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "id": 33,
+            "id_categorie": 7,
+            "name": "vehicles"
+        },
+        "my vehicle": {
+            "categorie": "void",
+            "color": [
+                50,
+                50,
+                50
+            ],
+            "id": 1,
+            "id_categorie": 0,
+            "name": "my vehicle"
+        },
+        "person": {
+            "categorie": "human",
+            "color": [
+                218,
+                165,
+                32
+            ],
+            "id": 24,
+            "id_categorie": 6,
+            "name": "person"
+        },
+        "road": {
+            "categorie": "flat",
+            "color": [
+                128,
+                64,
+                128
+            ],
+            "id": 7,
+            "id_categorie": 1,
+            "name": "road"
+        },
+        "road marking": {
+            "categorie": "flat",
+            "color": [
+                250,
+                250,
+                250
+            ],
+            "id": 34,
+            "id_categorie": 2,
+            "name": "road marking"
+        },
+        "sky": {
+            "categorie": "sky",
+            "color": [
+                70,
+                130,
+                180
+            ],
+            "id": 23,
+            "id_categorie": 5,
+            "name": "sky"
+        },
+        "undrivable": {
+            "categorie": "nature",
+            "color": [
+                152,
+                251,
+                152
+            ],
+            "id": 22,
+            "id_categorie": 4,
+            "name": "terrain"
+        },
+        "traffic light/traffic sign": {
+            "categorie": "object",
+            "color": [
+                255,
+                105,
+                180
+            ],
+            "id": 19,
+            "id_categorie": 3,
+            "name": "traffic light/traffic sign"
+        }
+    }
+}
